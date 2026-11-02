@@ -6,7 +6,7 @@ The prototype was developed on a breadboard using discrete electronic components
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The purpose of this project is to provide a simple visual indication of battery voltage.
 
@@ -34,7 +34,7 @@ As the battery voltage changes, different LEDs indicate the approximate battery 
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Monitor battery voltage
 - Display battery level visually
@@ -46,7 +46,7 @@ As the battery voltage changes, different LEDs indicate the approximate battery 
 
 ---
 
-# 💡 Working Principle
+#  Working Principle
 
 The battery voltage is sampled by a voltage-sensing network.
 
@@ -90,7 +90,7 @@ A typical 5-level indication can be represented as:
 
 ---
 
-# 🧰 Components
+#  Components
 
 The prototype may contain components such as:
 
@@ -105,11 +105,11 @@ The prototype may contain components such as:
 - Power switch
 - Current-limiting resistors
 
-> The exact component values should be documented after verifying the physical circuit.
+
 
 ---
 
-# 🔌 Block Diagram
+#  Block Diagram
 
 ```text
              ┌──────────────────┐
@@ -146,7 +146,7 @@ The prototype may contain components such as:
 
 ---
 
-# 🧪 Testing Procedure
+# Testing Procedure
 
 ## Step 1 — Visual Inspection
 
@@ -204,7 +204,7 @@ This table should be updated after final calibration.
 
 ---
 
-# 📊 Calibration
+#  Calibration
 
 For accurate battery indication, each threshold should be measured using a multimeter.
 
@@ -231,7 +231,7 @@ The threshold values should be selected according to the actual battery type.
 
 ---
 
-# 🧠 Electronics Concepts Demonstrated
+#  Electronics Concepts Demonstrated
 
 This project demonstrates:
 
@@ -302,7 +302,7 @@ This version could calculate the battery percentage and display the voltage digi
 
 ---
 
-# ⚠️ Safety
+#  Safety
 
 Do not connect an unknown battery directly to sensitive electronic components.
 
@@ -319,7 +319,7 @@ For rechargeable lithium batteries, use an appropriate protection/BMS system and
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 **Md Taslim Islam Oyon**
 
@@ -331,7 +331,7 @@ Electronics Engineer | PLC Programmer | Industrial Automation Enthusiast
 
 ---
 
-## ⭐ Project Status
+##  Project Status
 
 **Prototype / Experimental**
 
